@@ -1,3 +1,5 @@
 *.xlsx
-HW1_old.ipynb
+*_old.ipynb
+# HW1_old.ipynb
+/Slides/*
 !/Data_new/*
